@@ -4,4 +4,3 @@
 [submodule "emscripten-qt"]
 	path = emscripten-qt
 	url = https://github.com/dewhisna/emscripten-qt.git
-	branch = emscripten-qt
